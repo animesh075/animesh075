@@ -1,6 +1,6 @@
 ## Hi I'm Animesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Whats Up">
 
-[![](https://i.pinimg.com/originals/81/01/96/8101964a053f9353bde1cfb079d34bbc.gif)](https://github.com/animesh075)
+[![]([https://i.pinimg.com/originals/81/01/96/8101964a053f9353bde1cfb079d34bbc.gif](https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif))](https://github.com/animesh075)
 
 ### About Me:
 
